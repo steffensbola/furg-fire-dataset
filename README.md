@@ -1,6 +1,9 @@
 # furg-fire-dataset
 
-A dataset and evaluation scheme to provide an straightforward manner to compare the performance of different non-stationary video based fire detectors.
+A dataset to compare the performance of different non-stationary video based fire detectors. Each video file has an associated XML annotation file (in the weird OpenCv 2.4.9 XML format). We are no longer updating this repository.
+
+![Example](https://github.com/steffensbola/furg-fire-dataset/raw/annotation_tool.png "Example Annotation")
+ 
 
 
 References:
