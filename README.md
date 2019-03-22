@@ -4,6 +4,7 @@ A dataset and evaluation scheme to provide an straightforward manner to compare 
 
 
 References:
+```
 @inproceedings{steffens2016texture,
   title={A Texture Driven Approach for Visible Spectrum Fire Detection on Mobile Robots},
   author={Steffens, Cristiano Rafael and Botelho, Silvia Silva Da Costa and Rodrigues, Ricardo Nagel},
@@ -12,7 +13,9 @@ References:
   year={2016},
   organization={IEEE}
 }
+```
 
+```
 @inproceedings{steffens2015unconstrained,
   title={An unconstrained dataset for non-stationary video based fire detection},
   author={Steffens, Cristiano Rafael and Rodrigues, Ricardo Nagel and da Costa Botelho, Silvia Silva},
@@ -21,7 +24,9 @@ References:
   year={2015},
   organization={IEEE}
 }
+```
 
+```
 @incollection{steffens2016non,
   title={Non-stationary VFD Evaluation Kit: Dataset and Metrics to Fuel Video-Based Fire Detection Development},
   author={Steffens, Cristiano Rafael and Rodrigues, Ricardo Nagel and da Costa Botelho, Silvia Silva},
@@ -30,3 +35,4 @@ References:
   year={2016},
   publisher={Springer}
 }
+```
