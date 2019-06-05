@@ -5,6 +5,11 @@ A dataset to compare the performance of different non-stationary video based fir
 ![Example](https://github.com/steffensbola/furg-fire-dataset/raw/master/annotation_tool.png "Example Annotation")
  
 
+Each video file has a corresponding XML file with regular rectangles around each flame. They are OpenCv rectangle definitions. This XML was generated using OpenCv 2.4.9 and hasn't (probably won't) been updated since.
+
+Rect(int x, int y, int width, int height) x and y are the top left corner.
+For more info, have a look at the documentation: [OpenCv Rect](https://docs.opencv.org/3.1.0/d2/d44/classcv_1_1Rect__.html)
+
 
 References:
 ```
