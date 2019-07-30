@@ -37,7 +37,7 @@ References:
 }
 ```
 
-[An Unconstrained Dataset for Non-Stationary Video Based Fire Detection](ieeexplore.ieee.org/document/7402136)
+[An Unconstrained Dataset for Non-Stationary Video Based Fire Detection](http://ieeexplore.ieee.org/document/7402136)
 ```
 @inproceedings{steffens2015unconstrained,
   title={An unconstrained dataset for non-stationary video based fire detection},
