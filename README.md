@@ -12,6 +12,20 @@ For more info, have a look at the documentation: [OpenCv Rect](https://docs.open
 
 
 References:
+
+[First response fire combat: Deep leaning based visible fire detection](https://ieeexplore.ieee.org/document/8215312)
+```
+@inproceedings{huttner2017first,
+  title={First response fire combat: Deep leaning based visible fire detection},
+  author={H{\"u}ttner, Valqu{\'\i}ria and Steffens, Cristiano Rafael and da Costa Botelho, Silvia Silva},
+  booktitle={2017 Latin American Robotics Symposium (LARS) and 2017 Brazilian Symposium on Robotics (SBR)},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
+}
+```
+
+[A Texture Driven Approach for Visible Spectrum Fire Detection on Mobile Robots](https://ieeexplore.ieee.org/document/7783536)
 ```
 @inproceedings{steffens2016texture,
   title={A Texture Driven Approach for Visible Spectrum Fire Detection on Mobile Robots},
@@ -23,6 +37,7 @@ References:
 }
 ```
 
+[An Unconstrained Dataset for Non-Stationary Video Based Fire Detection](ieeexplore.ieee.org/document/7402136)
 ```
 @inproceedings{steffens2015unconstrained,
   title={An unconstrained dataset for non-stationary video based fire detection},
@@ -34,6 +49,7 @@ References:
 }
 ```
 
+[Non-stationary VFD Evaluation Kit: Dataset and Metrics to Fuel Video-Based Fire Detection Development](https://link.springer.com/chapter/10.1007/978-3-319-47247-8_9)
 ```
 @incollection{steffens2016non,
   title={Non-stationary VFD Evaluation Kit: Dataset and Metrics to Fuel Video-Based Fire Detection Development},
@@ -44,3 +60,5 @@ References:
   publisher={Springer}
 }
 ```
+
+
